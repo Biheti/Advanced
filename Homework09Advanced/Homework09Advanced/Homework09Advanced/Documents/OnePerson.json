@@ -1,0 +1,19 @@
+{
+  "Name": "Nikola",
+  "Surname": "Nikolov",
+  "Age": 25,
+  "Courses": [
+    {
+      "Name": "Math",
+      "Grade": 10
+    },
+    {
+      "Name": "Science",
+      "Grade": 9
+    },
+    {
+      "Name": "History",
+      "Grade": 8
+    }
+  ]
+}
